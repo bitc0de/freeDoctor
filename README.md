@@ -1,5 +1,7 @@
 # freeDoctor
  
+![freeDoctor](https://i.ibb.co/Wt1NFvY/Capt4ura.png)
+
 Script that generates a doctor's ped that will heal or revive you if you are dead, simply by pressing the E key.
 
 Ideal for your players to follow the role without the need to have EMS available.
