@@ -11,6 +11,9 @@ esx_ambulancejob
 ## INSTALLATION
 
 1-Download the repository.
+
 2-Unzip it and rename it to "freeDoctor".
+
 3-Copy the "freeDoctor" folder into the "resources" folder of your server.
+
 4-Add "start freeDoctor" in your server.cfg file
