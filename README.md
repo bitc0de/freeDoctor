@@ -8,6 +8,10 @@ Ideal for your players to follow the role without the need to have EMS available
 
 After being treated you must wait 2 minutes to request assistance again (this option can be removed or changed).
 
+## VIDEO
+
+https://streamable.com/njjfcf
+
 ## DEPENDENCIES
 
 esx_ambulancejob
